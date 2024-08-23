@@ -1,0 +1,2 @@
+<h1>English Dictionary</h1>
+This project is a simple yet comprehensive English dictionary application. It provides word definition and examples of usage, helping users to improve their vocabulary and understanding of the English language. The app is built using HTML,CSS and JavaScript, ensuring a smooth and efficient user experience. Contributions and feedback are welcome! Feel free to explore and enhance the functionality of this project.
